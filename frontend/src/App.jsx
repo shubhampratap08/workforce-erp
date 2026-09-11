@@ -4,8 +4,9 @@ import Dashboard from "./pages/Dashboard";
 import Clients from "./pages/Clients";
 import Workers from "./pages/Workers";
 import JobRequirements from "./pages/JobRequirements";
-import Deployments from "./pages/Deployments";
-import Attendance from "./pages/Attendance";
+import Deployments from "./pages/deployments";
+
+import Attendance from "./pages/attendance"; 
 import Payroll from "./pages/Payroll";
 import Invoices from "./pages/Invoices";
 import Sales from "./pages/Sales";
